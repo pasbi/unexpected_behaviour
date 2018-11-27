@@ -1,0 +1,1 @@
+this repository contains a number of minimal sample programs, each presenting an unexpected or interesting quirk of a certain programming language, maybe combined with a library, framework, etc.
